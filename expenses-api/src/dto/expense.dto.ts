@@ -1,8 +1,8 @@
 export interface Expense {
-    id?: number,
+    id: number
     title: string
     nominal: number
     type: 'income' | 'expense'
-    category: 'salary' | 'food' | 'transport'
+    category: 'salary' | 'food' | 'transport',
     date: string
 }
