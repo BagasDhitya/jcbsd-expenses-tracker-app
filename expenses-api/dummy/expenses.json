@@ -24,11 +24,19 @@
     "date": "2025-11-05"
   },
   {
-    "id": 5,
-    "title": "Makan Malam di Restoran",
-    "nominal": 120000,
+    "id": 6,
+    "title": "Nongkrong di Puncak",
+    "nominal": 75000,
     "type": "expense",
     "category": "food",
+    "date": "2025-11-05"
+  },
+  {
+    "id": 7,
+    "title": "Pergi ke bandara",
+    "nominal": 125000,
+    "type": "expense",
+    "category": "transport",
     "date": "2025-11-06"
   }
 ]
